@@ -5,6 +5,9 @@ This app allows user to record an audio which is sent to a NodeJS Backend and Co
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="max-width: 100%;">
 </div>
 
+Live version of this app can be tested here: [https://speech-to-text-frontend-ug7x7udhmq-pd.a.run.app/](https://speech-to-text-frontend-ug7x7udhmq-pd.a.run.app/
+)
+
 1. In the project root, you can run:<br>
     `npm install`<br>
      `npm run start`
