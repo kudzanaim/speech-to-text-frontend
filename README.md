@@ -1,10 +1,11 @@
 # Speech to Text Chat App - (React, NodeJS, OpenAI, Google Speech-to-Text)
 This app allows user to record an audio which is sent to a NodeJS Backend and Converted to text using [Speech-to-Text API](https://cloud.google.com/speech-to-text), then sent to [OpenAI API](https://platform.openai.com/docs/api-reference/chat/create) for an answer completion.
+
 <div dir="auto">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;">
 	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="max-width: 100%;">
 </div>
-
+<br>
 Live version of this app can be tested here: [https://speech-to-text-frontend-ug7x7udhmq-pd.a.run.app/](https://speech-to-text-frontend-ug7x7udhmq-pd.a.run.app/
 )
 
